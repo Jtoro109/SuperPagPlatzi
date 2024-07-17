@@ -43,3 +43,14 @@ body
 {
     padding: 1em;
 }
+
+#footer
+{
+    background-color: #360000;
+    text-align: right;
+    color: white;
+    padding: 0.8em;
+    font-size: 15px;
+    font-weight: bold;
+    
+}
