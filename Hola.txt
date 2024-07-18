@@ -4,8 +4,6 @@ Me les despido
 
 De nuevo hola 1
 
-<<<<<<< HEAD
 Chao 2
-=======
-Esto es un experimento
->>>>>>> 8dcbe55 (Ex1)
+
+experimento
